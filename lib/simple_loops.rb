@@ -17,7 +17,10 @@ end
 end
 
 do output_array(array)
+counter = 0 
 
+while counter < array.length do
+  puts 
 
 
 end
