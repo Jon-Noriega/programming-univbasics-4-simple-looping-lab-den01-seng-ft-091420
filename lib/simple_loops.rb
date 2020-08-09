@@ -15,3 +15,9 @@ while counter < integer do
   counter += 1
 end
 end
+
+do output_array(array)
+
+
+
+end
