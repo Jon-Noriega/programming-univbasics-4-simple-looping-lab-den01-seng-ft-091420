@@ -16,7 +16,7 @@ while counter < integer do
 end
 end
 
-do output_array(array)
+def output_array(array)
 counter = 0 
 
 while counter < array.length do
