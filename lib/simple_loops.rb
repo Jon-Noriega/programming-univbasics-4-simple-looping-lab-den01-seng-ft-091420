@@ -35,6 +35,3 @@ while counter < array.length do
 end
 new_array
 end
-
-
-
